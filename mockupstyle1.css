@@ -1,0 +1,11 @@
+h1 {
+  font-size: 32px;
+  font-weight: normal;
+}
+ul{
+  list-style: none;
+  line-height: 30px;
+}
+li {
+  font-size: 20px;
+}
