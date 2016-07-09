@@ -4,8 +4,8 @@ These HTML and CSS files are mockups of web pages based on exercises provided by
 
 ![](mockup-images/mockup01.png)
 
-![](mockup-images/mockup01.png)
+![](mockup-images/mockup02.png)
 
-![](mockup-images/mockup01.png)
+![](mockup-images/mockup03.png)
 
-![](mockup-images/mockup01.png)
+![](mockup-images/mockup04.png)
